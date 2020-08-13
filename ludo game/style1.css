@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Acme', sans-serif;
+}
+
+body {
+    background-image: url('wp3731825-ludo-wallpapers.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+h1 {
+    margin: 30px;
+    text-shadow: 0.5vw 0.5vw white;
+    font-size: 10vw;
+    color: #f6b93b;
+}
+
+p {
+    font-size: 2rem;
+    color: #00b894;
+}
+
+button {
+    padding: 10px;
+    background-color: #f6b93b;
+    color: white;
+    border: none;
+}
+
+img {
+    width: 75%;
+}
